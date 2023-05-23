@@ -1,4 +1,3 @@
-//1
 package com.example.catalogodetiendas
 
 import android.os.Bundle

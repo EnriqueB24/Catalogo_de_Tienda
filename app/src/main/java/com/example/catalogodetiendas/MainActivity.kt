@@ -1,4 +1,3 @@
-//1
 package com.example.catalogodetiendas
 
 import androidx.appcompat.app.AppCompatActivity
