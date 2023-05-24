@@ -1,4 +1,4 @@
-package com.example.catalogodetiendas
+package apps.ejemplo.CatalogodeTiendas
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -11,7 +11,7 @@ import java.util.*
 
 class TiendaFragment : Fragment() {
 
-    private lateinit var tienda:Tienda
+    private lateinit var tienda: Tienda
     private var _binding:FragmentTiendaBinding?=null
     private val binding
     get()= checkNotNull(_binding){

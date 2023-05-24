@@ -1,4 +1,4 @@
-package com.example.catalogodetiendas
+package apps.ejemplo.CatalogodeTiendas
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

@@ -1,4 +1,4 @@
-package com.example.catalogodetiendas
+package apps.ejemplo.CatalogodeTiendas
 
 import androidx.lifecycle.ViewModel
 import java.util.*
