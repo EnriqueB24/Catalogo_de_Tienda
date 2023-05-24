@@ -17,7 +17,7 @@ class TiendaListFragment : Fragment() {
     private var _binding: FragmentTiendaListBinding? = null
     private val binding
         get() = checkNotNull(_binding){
-            "No se puede acceder al binding"
+            "No se puede acceder al binding."
         }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
